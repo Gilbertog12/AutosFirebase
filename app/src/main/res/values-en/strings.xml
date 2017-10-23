@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AutosFirebase</string>
+    <string name="Modelo">Model</string>
+    <string name="Modificar">Modify</string>
+    <string name="Precio">Price</string>
+    <string name="azul">blue</string>
+    <string name="Agregar">Add Car</string>
+    <string name="Chevrolet">Chevrolet</string>
+    <string name="Color">Colour</string>
+    <string name="Crear_Auto">Add</string>
+    <string name="Editar">Edit</string>
+    <string name="Eliminar">Delete</string>
+    <string name="Guardar">Save</string>
+    <string name="Informacion">About</string>
+    <string name="Limpiar">Clean</string>
+    <string name="Listar_Autos">Show Cars</string>
+    <string name="Marca">Marc</string>
+    <string name="Placa">License Plate</string>
+    <string name="auto_existente_error">"there is already a car "</string>
+    <string name="año1">2005</string>
+    <string name="año2">2010</string>
+    <string name="año3">2015</string>
+    <string name="año4">2008</string>
+    <string name="año5">2017</string>
+    <string name="blanco">white</string>
+    <string name="eliminar_mensaje">are you sure</string>
+    <string name="error_vacio">it isn´t empty</string>
+    <string name="kia">kia</string>
+    <string name="mazda">Mazda</string>
+    <string name="mensaje_guardado">Car saved</string>
+    <string name="negro">black</string>
+    <string name="no_eliminar_mensaje">no</string>
+    <string name="no_vacio_error">it i´sn´t empty</string>
+    <string name="si_eliminar_mensaje">yes</string>
+    <string name="rojo">red</string>
+    <string name="persona_existente_error">there is alreday yet</string>
+    <string name="titulo_eliminar_mensaje">delete car</string>
+</resources>
